@@ -1,7 +1,7 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 //import java.util.Locale;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -50,7 +50,7 @@ public class Main {
 //
 //        System.out.printf("%.2f\n", area);
 
-        Scanner sc = new Scanner(System.in);
+//        Scanner sc = new Scanner(System.in);
 //
 //        String nome = sc.next();
 //        System.out.println("Seu nome é: " + nome);
